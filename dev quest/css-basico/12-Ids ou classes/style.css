@@ -1,0 +1,12 @@
+/* #descricao-pc, #descricao-videogame {
+    background-color: orange;
+} */
+
+/* class */
+.descricao-pc, .descricao-videogame {
+    background-color: rgb(115, 29, 130);
+    color: aqua;
+}
+.promocao{
+    border: solid 10px yellowgreen;
+}

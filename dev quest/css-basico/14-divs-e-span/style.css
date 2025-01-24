@@ -1,0 +1,16 @@
+/* h2{
+    background-color:yellowgreen ;
+}
+p{
+    background-color: aquamarine;
+}
+.produto{
+    background-color: rgb(132, 27, 83);
+} */
+ .produto{
+    background-color: aqua;
+ }
+ .produto span{
+    font-size: 24px;
+    color:orange
+ }
